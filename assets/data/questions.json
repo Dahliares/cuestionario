@@ -2535,7 +2535,313 @@
         "respuestaCorrecta": "Esborra tot el format"
       }
     ]
-  },    
+  }, 
+  {
+    "tema": "Mecánico 2006",
+    "preguntas": [
+        {
+            "id": "1",
+            "enunciado": "Quin dels següents és un tipus de coixinet?",
+            "respuestas": [
+                "Radial.",
+                "Perpendicular.",
+                "Rotacional."
+            ],
+            "respuestaCorrecta": "Radial."
+        },
+        {
+            "id": "2",
+            "enunciado": "L’equip de filtrat de la central de buit d’un hospital tindrà una eficàcia no inferior al:",
+            "respuestas": [
+                "70 % per partícules de mides superiors a 4 micros.",
+                "95 % per partícules de mides superiors a 0,02 micros.",
+                "80 % per partícules de mides superiors a 0,8 micros."
+            ],
+            "respuestaCorrecta": "80 % per partícules de mides superiors a 0,8 micros."
+        },
+        {
+            "id": "3",
+            "enunciado": "Quins són els dos tractaments superficials més importants que es fan en els perfils de fusteria d’alumini?",
+            "respuestas": [
+                "Esmerilat i repintat al foc.",
+                "Anoditzat i lacat.",
+                "Cromat i zincat."
+            ],
+            "respuestaCorrecta": "Anoditzat i lacat."
+        },
+        {
+            "id": "4",
+            "enunciado": "En quina de les següents respostes hi ha un element que NO correspon a una instal·lació d’aire comprimit?",
+            "respuestas": [
+                "Manòmetre, pressòstat, calderi, filtre d’aire, purga, associador.",
+                "Pressòstat, calderi, vacuòstat, filtre d’aire, vàlvula de seguretat.",
+                "Filtre d’aire, calderi, pressòstat, manòmetre, separador d’aigua."
+            ],
+            "respuestaCorrecta": "Pressòstat, calderi, vacuòstat, filtre d’aire, vàlvula de seguretat."
+        },
+        {
+            "id": "5",
+            "enunciado": "Quan s’han de fer les revisions periòdiques segons la taula II de normativa (Reial decret 1942/1993, de 5 de novembre, de detecció i extinció contra incendis)?",
+            "respuestas": [
+                "Una vegada l’any.",
+                "Una vegada al semestre.",
+                "Una vegada al trimestre."
+            ],
+            "respuestaCorrecta": "Una vegada al trimestre."
+        },
+        {
+            "id": "6",
+            "enunciado": "La utilització de resines líquides o escumes de poliuretà i pletines de poliamida reforçades amb fibra de vidre per aïllar els perfils en les estructures de fusteria d’alumini tenen per finalitat:",
+            "respuestas": [
+                "Donar més consistència a les estructures.",
+                "Reforçar la fixació dels vidres.",
+                "Trencar el pont tèrmic."
+            ],
+            "respuestaCorrecta": "Trencar el pont tèrmic."
+        },
+        {
+            "id": "7",
+            "enunciado": "Quin és el producte utilitzat en medicina per al refredament i la congelació criogènica?",
+            "respuestas": [
+                "Acciliè.",
+                "Nitrogen líquid.",
+                "Aire comprimit."
+            ],
+            "respuestaCorrecta": "Nitrogen líquid."
+        },
+        {
+            "id": "8",
+            "enunciado": "Un clavó és:",
+            "respuestas": [
+                "Una clau de canya foradada, sense dents.",
+                "Un forat que es fa per fixar una frontissa o pany.",
+                "Un travesser del mig col·locat a l'altura del pany."
+            ],
+            "respuestaCorrecta": "Un forat que es fa per fixar una frontissa o pany."
+        },
+        {
+            "id": "9",
+            "enunciado": "Quins són els tres elements bàsics que componen el triangle del foc?",
+            "respuestas": [
+                "Nitrogen, oxigen i hidrogen.",
+                "Oxigen, combustible i calor.",
+                "Oxigen, nitrogen i combustible."
+            ],
+            "respuestaCorrecta": "Oxigen, combustible i calor."
+        },
+        {
+            "id": "10",
+            "enunciado": "Quina és la composició de l'aire sintètic medicinal a la sortida del \"mesclador\"?",
+            "respuestas": [
+                "O2: 22 % mescla; N2: 78% mescla.",
+                "O2: 15% mescla; N2: 85% mescla.",
+                "O2: 32% mescla; N2: 68% mescla."
+            ],
+            "respuestaCorrecta": "O2: 22 % mescla; N2: 78% mescla."
+        },
+        {
+            "id": "11",
+            "enunciado": "Els sulfxes que s'assignen als rodaments: CA, CB, CC, -2F, etc. fan referència a:",
+            "respuestas": [
+                "Disseny intern.",
+                "Disseny extern.",
+                "Altres característiques del rodament."
+            ],
+            "respuestaCorrecta": "Altres característiques del rodament."
+        },
+        {
+            "id": "12",
+            "enunciado": "En les soldadures per arc elèctric, segons la connexió de l'elèctrode i la peça, es dirà que la polaritat és:",
+            "respuestas": [
+                "Directa, si l'elèctrode és positiu i la peça negativa.",
+                "Directa, si l'elèctrode és negatiu i la peça positiva.",
+                "Inversa, si l'elèctrode és negatiu i la peça positiva."
+            ],
+            "respuestaCorrecta": "Directa, si l'elèctrode és negatiu i la peça positiva."
+        },
+        {
+            "id": "13",
+            "enunciado": "Es pot utilitzar l'oxigen per destapar canonades, conduccions de gas i per al funcionament de màquines pneumàtiques?",
+            "respuestas": [
+                "Les seves propietats ho fan aconsellable.",
+                "Depèn dels diàmetres dels tubs.",
+                "No es pot utilitzar per la seva perillositat."
+            ],
+            "respuestaCorrecta": "No es pot utilitzar per la seva perillositat."
+        },
+        {
+            "id": "14",
+            "enunciado": "Les bobines d’un motor asíneron trifàsic amb el rotor en curtcircuit o gàbia d’esquiroi estan situades en:",
+            "respuestas": [
+                "El rotor.",
+                "L’estator.",
+                "Els escuts."
+            ],
+            "respuestaCorrecta": "L’estator."
+        },
+        {
+            "id": "15",
+            "enunciado": "Classificació d’extintors A, B, C, D. Indiqueu l’ordre exacte d’eficàcia respecte al tipus de foc.",
+            "respuestas": [
+                "A: líquids; B: sòlids; C: metalls especials; D: gasos.",
+                "A: materials especials; B: sòlids; C: líquids; D: gasos.",
+                "A: sòlids; B: líquids; C: gasos; D: materials especials."
+            ],
+            "respuestaCorrecta": "A: sòlids; B: líquids; C: gasos; D: materials especials."
+        },
+        {
+            "id": "16",
+            "enunciado": "Quins són els quatre tipus de flama en les soldadures per oxigàs?",
+            "respuestas": [
+                "Baixa - Mitjana - Alta - Oxidant.",
+                "Carburant - Reduciona - Neutra - Oxidant.",
+                "Baixa - Reduciona - Neutra - Alta."
+            ],
+            "respuestaCorrecta": "Carburant - Reduciona - Neutra - Oxidant."
+        },
+        {
+            "id": "17",
+            "enunciado": "Un motor de 1.000 rpm té una polítja motriu de 100 mm de diàmetre i actua sobre una polítja conduïda de 400 mm de diàmetre mitjançant corretges. A quina velocitat gira l’eix de la polítja conduïda?",
+            "respuestas": [
+                "4.000 rpm.",
+                "2.500 rpm.",
+                "250 rpm."
+            ],
+            "respuestaCorrecta": "250 rpm."
+        },
+        {
+            "id": "18",
+            "enunciado": "Quins instruments mesuren la temperatura, la pressió, la humitat i la velocitat de l’aire, segons l’ordre indicat?",
+            "respuestas": [
+                "Higròstat, manòmetre, termòstat, luxòmetre.",
+                "Termòmetre, manòmetre, higròmetre, anemòmetre.",
+                "Termòmetre, baròmetre, humidòstat, fluxòmetre."
+            ],
+            "respuestaCorrecta": "Termòmetre, manòmetre, higròmetre, anemòmetre."
+        },
+        {
+            "id": "19",
+            "enunciado": "En les soldadures per oxigàs, els gasos comburents (1) i combustibles (2) de més alt rendiment emprats són:",
+            "respuestas": [
+                "(1) Aire - (2) Propilè",
+                "(1) Acetilè - (2) Oxigen",
+                "(1) Oxigen - (2) Acetilè"
+            ],
+            "respuestaCorrecta": "(1) Oxigen - (2) Acetilè"
+        },
+        {
+            "id": "20",
+            "enunciado": "Què impliquen les fultes d’oxigen en la Central?",
+            "respuestas": [
+                "Risc d’asfixia.",
+                "Exclusivament un risc econòmic.",
+                "Risc d’incendi."
+            ],
+            "respuestaCorrecta": "Risc d’incendi."
+        },
+        {
+            "id": "21",
+            "enunciado": "En els treballs de torn, quina és l'eina que cal utilitzar per mesurar diàmetres interiors, diàmetres exteriors i fondàries?",
+            "respuestas": [
+                "Palmer o micròmetre.",
+                "Peu de rei.",
+                "Luxòmetre."
+            ],
+            "respuestaCorrecta": "Peu de rei."
+        },
+        {
+            "id": "22",
+            "enunciado": "El foc de classe \"C\" és el que es produeix en:",
+            "respuestas": [
+                "Equips i instal·lacions sota càrrega elèctrica.",
+                "Líquids combustibles inflamables: petroli, benzina, etc.",
+                "Combustibles comuns i sòlids: fusta, cartró, tèxtil, etc."
+            ],
+            "respuestaCorrecta": "Equips i instal·lacions sota càrrega elèctrica."
+        },
+        {
+            "id": "23",
+            "enunciado": "La utilització de soldadura d'estany està prohibida en instal·lacions de gasos medicinals perquè:",
+            "respuestas": [
+                "Mecànicament la soldadura té poques prestacions.",
+                "Per la generació SnO3.",
+                "Pateix corrosió i en cas d'incenti no aguanta."
+            ],
+            "respuestaCorrecta": "Pateix corrosió i en cas d'incenti no aguanta."
+        },
+        {
+            "id": "24",
+            "enunciado": "En quina de les següents respostes es detallen tots els elements de protecció necessaris per fer una soldadura elèctrica/autògena?",
+            "respuestas": [
+                "Ulleres amb vidre solar, guants de llana, sabates de protecció.",
+                "Careta amb vidre filtrant, guants de protecció, davantal de protecció, sabates de protecció.",
+                "Ulleres amb vidre solar, guants de protecció, davantal de protecció, sabates usuals."
+            ],
+            "respuestaCorrecta": "Careta amb vidre filtrant, guants de protecció, davantal de protecció, sabates de protecció."
+        },
+        {
+            "id": "25",
+            "enunciado": "Els tipus de transmissions mecàniques més importants es realitzen amb:",
+            "respuestas": [
+                "Polítges simètriques, cadenes de transmissió i engranatges cònics.",
+                "Polítges i corretges, rodes dentades i cadenes i engranatges.",
+                "Polítges asimètriques, cadenes i engranatges rectes."
+            ],
+            "respuestaCorrecta": "Polítges i corretges, rodes dentades i cadenes i engranatges."
+        },
+        {
+            "id": "26",
+            "enunciado": "Quins són els colors correctes dels diferents tipus d'ampolles de gasos medicinals: 1) oxigen, 2) protòxid de nitrogen i 3) aire sintètic?",
+            "respuestas": [
+                "1) ogiva: blanca creu vermella / cilindre: negre; 2) ogiva: blava creu vermella / cilindre: blau i 3) ogiva: blanca creu vermella ratlla negra / cilindre: negre.",
+                "1) ogiva: blava creu vermella ratlla negra / cilindre: negre; 2) ogiva: marró / cilindre: negre i 3) ogiva: blava creu vermella / cilindre: negre.",
+                "1) ogiva: blanca creu vermella ratlla negra / cilindre: negre; 2) ogiva: groga creu vermella / cilindre: negre i 3) ogiva: blava creu vermella/ cilindre: negre."
+            ],
+            "respuestaCorrecta": "1) ogiva: blanca creu vermella ratlla negra / cilindre: negre; 2) ogiva: groga creu vermella / cilindre: negre i 3) ogiva: blava creu vermella/ cilindre: negre."
+        },
+        {
+            "id": "27",
+            "enunciado": "Les bombes de flux axial són per a:",
+            "respuestas": [
+                "L'elevació d'aigua en perforacions amb fondàries superiors a 100 metres.",
+                "L'elevació d'un cabal a una alçada màxima de 10 metres.",
+                "Altures superiors a 60 metres i inferior a 100 metres."
+            ],
+            "respuestaCorrecta": "L'elevació d'un cabal a una alçada màxima de 10 metres."
+        },
+        {
+            "id": "28",
+            "enunciado": "La canonada de coure (Cu) emprada per a instal·lacions de gasos medicinals ha de ser desengreixada?",
+            "respuestas": [
+                "No és necessari.",
+                "Només per l’oxigen i protòxid de nitrogen.",
+                "Per a tots els gasos medicinals."
+            ],
+            "respuestaCorrecta": "Per a tots els gasos medicinals."
+        },
+        {
+            "id": "29",
+            "enunciado": "El buit medicinal mínim correcte immediatament abans d’una presa de gasos hauria de ser:",
+            "respuestas": [
+                "1.012 mm. d.c.Hg.",
+                "300 mm. d.c.Hg.",
+                "145 mm. d.c.Hg."
+            ],
+            "respuestaCorrecta": "300 mm. d.c.Hg."
+        },
+ {
+            "id": "30",
+            "enunciado": "Quins són els diàmetres més freqüents de canonada de ferro, de menor a major, definits en funció del diàmetre de l'exterior:",
+            "respuestas": [
+                "⌀¼, ⌀½, ⌀⁵⁄₈, ⌀³⁄₈, ⌀1, ⌀1¼, ⌀1½, ⌀1¾, ⌀2, ⌀2¼, ⌀3, ⌀4, ⌀5",
+                "⌀13 mm, ⌀15 mm, ⌀18 mm, ⌀22 mm, ⌀28 mm, ⌀35 mm, ⌀42 mm",
+                "⌀¼, ⌀³⁄₈, ⌀½, ⌀¾, ⌀1, ⌀1¼, ⌀1½, ⌀2, ⌀2½, ⌀3, ⌀4, ⌀5"
+            ],
+            "respuestaCorrecta": "⌀¼, ⌀³⁄₈, ⌀½, ⌀¾, ⌀1, ⌀1¼, ⌀1½, ⌀2, ⌀2½, ⌀3, ⌀4, ⌀5"
+        }
+
+    ]
+},
   {
     "tema": "Tema 10",
     "preguntas": [
@@ -2554,3 +2860,4 @@
   }
 
 ]
+
